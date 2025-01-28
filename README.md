@@ -5,5 +5,5 @@ The analyses comprised of the three modules:
 2. apply_model, where CFA or SEM is applied to RSFC and phenotype measures. Intermediate files are created.
 3. postprocess, where graphs are drawn and statistical results are obtained
 
-We used Slurm Workload Manager to conduct analyses in 2. apply_model.
+We used Slurm Workload Manager to conduct analyses on resting-state functional connectivity in 2. apply_model.
 If you have any question, please email to t-haitani@atr.jp.
