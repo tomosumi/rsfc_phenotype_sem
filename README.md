@@ -6,4 +6,4 @@ The analyses comprised of the three modules:
 3. postprocess, where graphs are drawn and statistical results are obtained
 
 We used Slurm Workload Manager to conduct analyses in 2. apply_model.
-If you have any question, please email to t-haitani@atr.jp
+If you have any question, please email to t-haitani@atr.jp.
