@@ -9,4 +9,8 @@ We used Slurm Workload Manager to conduct analyses on resting-state functional c
 
 Analyses on measurement models with method factors representing order in days were conducted with fc_arg_slurm_lavaan_rel_msst_split_half_family_order_in_day.sh, called from sbatch_for_rel_with_filename.sh
 
+After completing above analyses, we conducted the analyses using 2. Model selection of RSFC.ipynb
+
+Directories such as "/home/cezanne/t-haitani/hcp_data" should be changed.
+
 If you have any question, please email to t-haitani@atr.jp.
